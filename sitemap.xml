@@ -2,3 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://chrisautodetail613.com/index</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/store</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/reviews</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/gallery-All</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/gallery-Interior-Detailing</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/gallery-Exterior-Detailing</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/service-Interior-Detailing</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/service-Exterior-Detailing</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/service-Full-Service-Detailing</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/service-Paint-Correction</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/service-Ceramic-Coating</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/service-Headlight-Restoration</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/service-Vinyl-Wraps</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://chrisautodetail613.com/service-Paint-Protection-Film</loc>
+        <lastmod>2022-03-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
